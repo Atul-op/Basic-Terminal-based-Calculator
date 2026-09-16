@@ -27,6 +27,7 @@ A simple terminal-based calculator written in Python. Takes two numbers and an o
    ```
 
 2. Run the script
+   
    For Windows : 
    ```bash
    python code.py
