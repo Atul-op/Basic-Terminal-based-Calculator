@@ -1,7 +1,7 @@
 class code:
     def main():
-        a = int(input("Enter a : "))
-        b = int(input("Enter b : "))
+        a = float(input("Enter a : "))
+        b = float(input("Enter b : "))
         operator = input("Enter Operator : ")
         if(operator == '+'):
             print("Answer :",(a+b))
