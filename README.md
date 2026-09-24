@@ -39,19 +39,19 @@ A simple terminal-based calculator written in Python. Takes two numbers and an o
 
 4. Follow the prompts
    ```
-   Enter a : 10
-   Enter b : 5
+   Enter a : 10.2
+   Enter b : 5.3
    Enter Operator : +
-   Answer : 15
+   Answer : 15.5
    ```
 
 ## Example
 
 ```
-Enter a : 20
-Enter b : 4
+Enter a : 20.6
+Enter b : 4.1
 Enter Operator : //
-Answer : 5
+Answer : 5.0
 ```
 
 ## Possible Improvements
